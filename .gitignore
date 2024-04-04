@@ -1,0 +1,10 @@
+# Keys
+public_key.pem
+private_key.pem
+
+# Sensitive docs
+*.txt
+
+# Environment
+/v
+.DS_Store

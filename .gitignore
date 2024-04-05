@@ -2,7 +2,7 @@
 public_key.pem
 private_key.pem
 
-# Ignore .txt files = private documents (this ignores the encrypted files)
+# Ignore .txt files = private documents (encrypted files are safe to upload)
 .txt
 
 # Environment

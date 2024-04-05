@@ -2,6 +2,9 @@
 public_key.pem
 private_key.pem
 
+# Ignore .txt files = private documents (this ignores the encrypted files)
+.txt
+
 # Environment
 /v
 .DS_Store
